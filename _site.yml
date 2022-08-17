@@ -1,0 +1,23 @@
+name: "website"
+title: "Albert Valls"
+description: |
+  Albert Valls
+output_dir: "_site"
+navbar:
+  #logo:
+  #  image: images/AlbertVallsXXSS.png
+  search: true
+  right:
+    - text: "Sobre l'Albert Valls"
+      href: index.html
+    - text: "Publicacions"
+      href: publicacions.html
+    - text: "Contacte"
+      href: contacte.html
+    - icon: fa fa-twitter
+      href: https://twitter.com/AlbertVallsG1
+    - icon: fa fa-github
+      href: https://github.com/AlbertVGR
+    - icon: fa fa-linkedin
+      href: https://www.linkedin.com/in/albert-valls-garcia-2118b1100/
+output: distill::distill_article

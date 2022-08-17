@@ -1,0 +1,27 @@
+{
+  "articles": [
+    {
+      "path": "contacte.html",
+      "title": "",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-17T17:32:09+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Albert Valls",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-17T17:32:10+02:00"
+    },
+    {
+      "path": "publicacions.html",
+      "title": "",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-17T17:32:10+02:00"
+    }
+  ],
+  "collections": []
+}
