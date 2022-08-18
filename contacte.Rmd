@@ -1,8 +1,10 @@
 ---
-title: ""
+title: "Contacte"
 output: distill::distill_article
 ---
 
+
+albert.vallsg@gmail.com
 
 
 

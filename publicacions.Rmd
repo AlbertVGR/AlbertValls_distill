@@ -1,9 +1,11 @@
 ---
-title: ""
+title: "Publicacions"
 output: distill::distill_article
 ---
 
+# Primera publicació
 
+[Una anàlisi del Servei d’Atenció a Domicili al Vallès Oriental](publicacions/Una_analisi_del_SAD_al_VO_2122.html)
 
 
 
