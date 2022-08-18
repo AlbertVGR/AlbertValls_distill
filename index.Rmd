@@ -1,6 +1,73 @@
 ---
-title: "Albert Valls"
-description: |
-  Welcome to the website. I hope you enjoy it!
+title: "Sobre l'Albert Valls"
+description: | 
 site: distill::distill_website
 ---
+
+<center>
+![Politòleg, Cardedeu, Catalunya, Barcelona, 1 de gener de 1993](images/AVG.jpg){width=50%}
+
+Col·legiat al [COLPIS](https://www.colpis.cat/): Número 3350
+
+### Idiomes
+Català - Castellà - Anglès
+</center>
+
+## Motivació
+
+Per tal de millorar el procés de presa de decisions i millorar el benestar global, m'agrada donar arguments, justificacions i respostes a qüestions polítiques rellevants a través de fer recerca amb mètodes qualitatius o quantitatius.
+
+## Educació
+
+•	Postgrau a la Universitat de Barcelona (UB): Analista de Dades per a l'Anàlisi Política i la Gestió Pública (2020-2021) 
+
+•	Màster a la Universitat Autònoma de Barcelona (UAB): Relacions Internacionals, Seguretat I Desenvolupament (2018-2019) Especialització: La Unió Europea al món
+
+•	Grau a la Universitat Autònoma de Barcelona (UAB) Ciències Polítiques i Gestió Pública (2012-2017) Especialització: Relacions Internacionals
+
+## Experiència
+
+•	Consultor de gestió pública a Portacabot.
+
+Experiència en polítiques d’habitatge i polítiques de joventut. Col·laboració en la redacció de plans locals d’habitatge i plans d’actuació municipal.  
+Jornada completa. De 23/03/2022 a actualitat.
+
+•	Analista de dades al departament d’informàtica del Consell Comarcal del Vallès Oriental – Programa Garantia Juvenil.
+
+Assistir al departament TIC amb la generació i tractament de bases de dades. Anàlisi de dades amb RStudio per a l’avaluació de polítiques públiques com el Servei d’Atenció Domiciliari del Consell. Projecte d’enquesta de satisfacció dels serveis TIC a l’administració pública local del Vallès Oriental. 
+Jornada completa. De 27/09/2021 a 22/03/2022.
+
+•	Associat d’afers públics a l’oficina de KREAB a Barcelona.
+
+Seguiment dels mitjans de comunicació catalans i espanyols, la política i la legislació. Mantenir els clients informats diàriament mitjançant informes diaris. Investigació i anàlisi d'assumptes polítics i corporatius. Ajudar a l’equip d'Assumptes Públics pel que fa a propostes, projectes i informes.
+Jornada completa. De 03/2020 a 08/2020.
+
+•	Delegació catalana a la UE a Brussel·les: practiques d’assessor polític.
+
+Suport al seguiment de les activitats institucionals de la Unió Europea. Donar suport a la preparació de documents per a les reunions de tècnics de la UE i participar a les mateixes. Participació a seminaris i conferències sobre temes actuals. Redacció de notes informatives sobre les actuals qüestions institucionals de la UE i especialment les relacionades amb la migració i la seguretat.
+De 06/2019 a 07/2019, 350 hores.
+
+•	Fundació Catalunya Europa: Pràctiques d’investigador.
+
+Recerca de dades i informació. Escrivint els informes de la política. Participació en els diferents projectes de la institució, com la RE-CIUTAT. Transcripcions.
+De 02/2019 a 05/2019, 250 hores.
+
+•	SPUNI 2016: 
+
+Simulació parlamentària al Parlament de Catalunya. El paper del diputat consisteix a dissenyar l'estratègia de grup parlamentari; assegurar que les sessions i les comissions legislatives tenen continguts rellevants per discutir mentre representen les idees del partit assignades. El seu objectiu principal és arribar a acords amb els altres diputats per a aprovar lleis.
+Programa d’una setmana 07/2016.
+
+•	Partit Polític.
+
+Analista de premsa i redactor de discursos electorals per a les eleccions generals espanyoles de 2016. Tasques principals: Identifica els punts forts i febles de les candidatures i reforça els arguments del candidat del partit donat.
+Tasca de mig mes 06/2016
+
+•	Tea Cegos Barcelona.
+
+Enquestador: En relació amb la zona d'atenció turística, l'enquestador recull, produeix i digitalitza dades d’enquestats. He dut a terme més de 600 enquestes, tant al carrer com a l'interior dels trens d'alta velocitat i per telèfon.
+Diversos contractes temporals 2016.
+
+•	Casa Gay S.A Barcelona.
+
+Mosso de magatzem: He dut a terme funcions de preparació de comandes de material per a lloguer. Altres tasques inclouen emmagatzematge, reemplaçament i manteniment del material de la Casa Gay. Vaig organitzar i vaig atendre les necessitats del client i dels transportistes al moll de càrrega. El gerent del magatzem era el meu supervisor. Vaig manipular vehicles de transport intern horitzontal i vertical per manejar la mercaderia. Finalment, vaig prendre iniciatives de substitució no programades.
+Diversos contractes temporals durant estius i hiverns 2015/2017/2018.

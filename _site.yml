@@ -1,5 +1,7 @@
 name: "website"
-title: "Albert Valls"
+title: "Albert Valls Garcia"
+#google_analytics: "" # this implies GDPR and cookie consent
+theme: "Albert_theme.css"
 description: |
   Albert Valls
 output_dir: "_site"
